@@ -1,3 +1,3 @@
-# Exercises - HTML , CSS, JS
+# Exercise - HTML , CSS, JS
 A calculator with Vanilla Javascript 
 It's like a Windows calculator
